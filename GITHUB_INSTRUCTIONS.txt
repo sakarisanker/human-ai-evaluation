@@ -1,0 +1,10 @@
+GITHUB UPLOAD INSTRUCTIONS — Sakari Sanker
+
+1. Repository: human-ai-evaluation  
+2. Description: A qualitative model-evaluation study exploring tone drift, safety filters, and reasoning coherence in large language models.  
+3. Visibility: Public  
+4. Primary file: README.md  
+5. Supporting data: prompt_pack.txt, experiment_log.csv, verification_note.txt  
+6. Topics: AI-evaluation, red-teaming, LLM-behavior, AI-safety, prompt-design, anthropology, human-ai-collaboration, alignment-research, ethics, research-portfolio  
+7. Author: Sakari Faustine Sanker (2025)
+8. Collaborator: OpenAI GPT-5
