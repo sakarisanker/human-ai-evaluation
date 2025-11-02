@@ -78,4 +78,4 @@ My participation here is as much about understanding the system as it is about n
 ---
 
 ## License
-© 2025 Sakari Sanker · Creative Commons BY GPT - 5 (2025) 
+© 2025 Sakari Sanker · Creative Comms BY GPT - 5 (2025) 
