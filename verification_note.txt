@@ -1,0 +1,12 @@
+Verification Note — Human–AI Evaluation Packet
+Author: Sakari Sanker
+Email: sakarisanker@gmail.com
+
+To reproduce:
+1. Open prompt_pack.txt in a GPT chat interface.
+2. Run prompts sequentially (temperature 0.2, top_p 0.9).
+3. Save outputs; compare with experiment_log.csv.
+4. Observe tone drift, refusals, and reasoning variation.
+
+Purpose:
+Demonstrate transparent and reproducible qualitative model-behavior testing
